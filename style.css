@@ -5,6 +5,7 @@
   }
   body {
     background: white;
+    margin: 5cm;
     font-family: sans-serif;
     min-height: 100vh;
     display: flex;
