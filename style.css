@@ -1,28 +1,19 @@
 * {
-    margin: 10rem;
-    padding: 10rem;
-    border: red 20px solid;
-    box-sizing: border-box;
-  }
-  body {
-    background: white;
-    margin: 20px;
-  }
-  hr {
-    margin-top: 1.5rem;
-    font-family: sans-serif;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 15em;
-    margin-bottom: 1.5rem;
-  }
-  main {
-	font-family: monospace;
-	background: #ccc;
-	width: 600px;
-	margin: 0 auto;
-	padding: 2rem;
+  margin: 1rem;
+  padding: 1rem;
+  box-sizing: border-box;
 }
-  
+body {
+  background: white;
+  margin: 2px;
+}
+hr {
+  margin-top: 1rem;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0em;
+  margin-bottom: 1rem;
+}
