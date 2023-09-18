@@ -1,11 +1,11 @@
 * {
-    margin: 10em;
-    padding: 10em;
+    margin: 10rem;
+    padding: 10rem;
     box-sizing: border-box;
   }
   body {
     background: white;
-    margin: 0;
+    margin: 20px;
   }
   hr {
     margin-top: 1.5rem;
@@ -16,5 +16,12 @@
     align-items: center;
     padding: 15em;
     margin-bottom: 1.5rem;
+  }
+  main {
+    font-family: monospace;
+    background: #ccc;
+    width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
   }
   
