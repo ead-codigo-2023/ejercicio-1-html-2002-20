@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body {
-    background: red;
+    background: white;
     margin: 20px;
   }
   hr {
@@ -18,10 +18,10 @@
     margin-bottom: 1.5rem;
   }
   main {
-    font-family: monospace;
-    background: #ccc;
-    width: 600px;
-    margin: 0 auto;
-    padding: 2rem;
-  }
+	font-family: monospace;
+	background: #ccc;
+	width: 600px;
+	margin: 0 auto;
+	padding: 2rem;
+}
   
